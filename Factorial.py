@@ -5,7 +5,6 @@ n=int(input())
     fact=fact*i
 print(fact)
 
-# ------------------------
 # Second method
 def fact(n):
     factt=1
